@@ -1,0 +1,21 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.py[cod]
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment and local data
+.env
+backend/.env
+*.sqlite3
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+Full Stack Developer Technical Assessment.pdf
